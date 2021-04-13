@@ -8,4 +8,5 @@ variable "igw_name" {
 }
 
 variable "environment" {
-  
+    type = string
+}
